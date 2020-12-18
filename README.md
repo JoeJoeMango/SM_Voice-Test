@@ -7,4 +7,4 @@
 
 5. then start an https tunnle with [ngrok](https://ngrok.com/)
 
-6. and use that as the temporaty dev server for the fufillment address
+6. and use that as the temporaty dev server for the fufillment address in dialogflow
